@@ -4,7 +4,7 @@ const router = express.Router();
 
 
 router.get("/signup/teacher", function (req, res) {
-    res.render("index");
+    res.json("index");
 });
 
 router.delete("/api/techerskillsdelete", function (req, res) {

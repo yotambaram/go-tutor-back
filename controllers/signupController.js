@@ -7,7 +7,7 @@ const router = express.Router();
 
 
 router.get("/userSignup", function (req, res) {
-    res.render("index");
+    res.json("index");
 });
 
 

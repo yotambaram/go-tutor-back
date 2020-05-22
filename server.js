@@ -18,7 +18,7 @@ app.use(express.urlencoded({
 app.use(express.json());
 
 app.use(cors({
-  origin: ["http://localhost:3000"], // ["https://betutor2020.herokuapp.com/"],
+  origin: ["https://string2020.herokuapp.com"],
   credentials:true
 })); 
 

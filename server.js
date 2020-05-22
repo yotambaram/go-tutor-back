@@ -18,7 +18,7 @@ app.use(express.urlencoded({
 app.use(express.json());
 
 app.use(cors({
-  origin: ["https://string2020.herokuapp.com"],
+  origin: ["https://yoututor2020.herokuapp.com"],
   credentials:true
 })); 
 

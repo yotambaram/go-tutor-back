@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlgaSadova/FinalProjectBackEnd.git"
+    "url": "https://github.com/yotambaram/go-tutor-back.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OlgaSadova/FinalProjectBackEnd/issues"
+    "url": "https://github.com/yotambaram/go-tutor-back/issues"
   },
-  "homepage": "https://github.com/OlgaSadova/FinalProjectBackEnd#readme",
+  "homepage": "https://github.com/yotambaram/go-tutor-back#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "bcrypt": "^4.0.1",

@@ -18,7 +18,7 @@ app.use(express.urlencoded({
 app.use(express.json());
 
 app.use(cors({
-  origin: ["https://gotutor.herokuapp.com/"],
+  origin: ["https://gotutor.herokuapp.com"], // ["http://localhost:3000"],
   credentials:true
 })); 
 
